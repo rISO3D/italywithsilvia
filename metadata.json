@@ -1,0 +1,5 @@
+{
+  "name": "EventPlanner AI",
+  "description": "Organizza i tuoi fornitori per eventi (fotografi, ville, fiorai) e usa l'IA per estrarre dati e cercare informazioni senza dover rileggere preventivi e PDF.",
+  "requestFramePermissions": []
+}
